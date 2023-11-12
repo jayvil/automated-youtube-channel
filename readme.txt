@@ -1,0 +1,1 @@
+install instaloader and add instaloader to the path

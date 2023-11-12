@@ -1,0 +1,11 @@
+# instagram
+USERNAME: userName
+PWD: accountPwd
+INPUT_VIDEOS_PATH: all_videos
+COMPILATION_OUTPUT_PATH: compilationOutputPath
+
+# youtube
+APIKEY: apiKey
+CLIENT_ID: clientID
+CLIENT_SECRET: clientSecret
+
